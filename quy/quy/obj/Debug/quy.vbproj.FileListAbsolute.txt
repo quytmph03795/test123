@@ -1,0 +1,22 @@
+C:\Users\DAT\AppData\Local\Temporary Projects\quy\bin\Debug\quy.exe.config
+C:\Users\DAT\AppData\Local\Temporary Projects\quy\bin\Debug\quy.exe
+C:\Users\DAT\AppData\Local\Temporary Projects\quy\bin\Debug\quy.pdb
+C:\Users\DAT\AppData\Local\Temporary Projects\quy\bin\Debug\quy.xml
+C:\Users\DAT\AppData\Local\Temporary Projects\quy\obj\Debug\quy.Form1.resources
+C:\Users\DAT\AppData\Local\Temporary Projects\quy\obj\Debug\quy.Form2.resources
+C:\Users\DAT\AppData\Local\Temporary Projects\quy\obj\Debug\quy.Resources.resources
+C:\Users\DAT\AppData\Local\Temporary Projects\quy\obj\Debug\quy.vbproj.GenerateResource.Cache
+C:\Users\DAT\AppData\Local\Temporary Projects\quy\obj\Debug\quy.exe
+C:\Users\DAT\AppData\Local\Temporary Projects\quy\obj\Debug\quy.xml
+C:\Users\DAT\AppData\Local\Temporary Projects\quy\obj\Debug\quy.pdb
+C:\Users\fpoly\Desktop\quy\quy\quy\bin\Debug\quy.exe.config
+C:\Users\fpoly\Desktop\quy\quy\quy\obj\Debug\quy.exe
+C:\Users\fpoly\Desktop\quy\quy\quy\obj\Debug\quy.xml
+C:\Users\fpoly\Desktop\quy\quy\quy\obj\Debug\quy.pdb
+C:\Users\fpoly\Desktop\quy\quy\quy\bin\Debug\quy.exe
+C:\Users\fpoly\Desktop\quy\quy\quy\bin\Debug\quy.pdb
+C:\Users\fpoly\Desktop\quy\quy\quy\bin\Debug\quy.xml
+C:\Users\fpoly\Desktop\quy\quy\quy\obj\Debug\quy.Form1.resources
+C:\Users\fpoly\Desktop\quy\quy\quy\obj\Debug\quy.Form2.resources
+C:\Users\fpoly\Desktop\quy\quy\quy\obj\Debug\quy.Resources.resources
+C:\Users\fpoly\Desktop\quy\quy\quy\obj\Debug\quy.vbproj.GenerateResource.Cache
